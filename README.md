@@ -1,7 +1,7 @@
 # 🎮 Custom Discord RPC
 
-**Custom Discord RPC** is a modern Electron app that lets you easily create, preview, and activate a 
-custom Discord Rich Presence. Designed to add a liitle more **WOW** to your profile.
+**Custom Discord RPC** is a modern Electron app that lets you easily create, 
+preview, and activate a custom Discord Rich Presence. Designed to add a little more **WOW** to your profile.
 
 ---
 
@@ -14,7 +14,7 @@ custom Discord Rich Presence. Designed to add a liitle more **WOW** to your prof
 - 👤 Discord OAuth login with profile preview
 - 🔄 Auto-updater with seamless release delivery
 - 🧲 Minimize to system tray with restore
-- 🌙 Dark themed UI inspired by Discord itself
+- 🌙 Dark-themed UI inspired by Discord itself
 
 ---
 
