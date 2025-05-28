@@ -1,0 +1,24 @@
+Custom Discord RPC - License Agreement
+======================================
+
+By installing and using this software, you agree to the following terms:
+
+What you CAN do:
+- Use this app for personal, non-commercial projects
+- Customize and show off your Discord Rich Presence
+- Share your creations or screenshots (with credit)
+
+What you CAN'T do:
+- Reverse engineer, decompile, or modify the core app
+- Resell, rebrand, or distribute without permission
+- Use it for anything shady or illegal
+
+Disclaimer:
+This app is provided "as is" — no warranties, no guarantees, just pure creative energy.
+Use at your own risk. I'm not responsible if your presence looks so cool it breaks the Discord timeline.
+
+Final Note:
+This app was made by a car nerd with a love for code and cool builds.
+Have fun. Stay nerdy.
+
+- SpeccyNerd (2025)
