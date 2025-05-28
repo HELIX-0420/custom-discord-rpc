@@ -15,10 +15,6 @@ What you CAN'T do:
 
 Disclaimer:
 This app is provided "as is" — no warranties, no guarantees, just pure creative energy.
-Use at your own risk. I'm not responsible if your presence looks so cool it breaks the Discord timeline.
-
-Final Note:
-This app was made by a car nerd with a love for code and cool builds.
-Have fun. Stay nerdy.
+Use at your own risk. I'm not responsible if your presence looks so cool that it breaks the Discord timeline.
 
 - SpeccyNerd (2025)
