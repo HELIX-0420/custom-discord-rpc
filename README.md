@@ -1,6 +1,6 @@
 # 🎮 Custom Discord RPC
 
-**Custom Discord RPC** is a modern Electron app that lets you easily create, 
+**Custom Discord RPC** is a modern app that lets you easily create, 
 preview, and activate a custom Discord Rich Presence. Designed to add a little more **WOW** to your profile.
 
 ---
